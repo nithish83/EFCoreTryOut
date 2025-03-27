@@ -18,6 +18,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// Removed the incorrect method call
 app.UseAuthorization();
 
 app.MapControllerRoute(

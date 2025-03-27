@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTryOutSolutions", "EFCoreTryOutSolutions\EFCoreTryOutSolutions.csproj", "{08D04380-4D66-48FE-91E8-3CA79D96777B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_DataAccess", "EFCore_DataAccess\EFCore_DataAccess.csproj", "{415CEA07-22B6-4683-A57F-B2EDD77C02B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_ModelAccess", "EFCore_ModelAccess\EFCore_ModelAccess.csproj", "{A74FA1D2-CB2A-44B5-95B0-33ABA84B265A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{08D04380-4D66-48FE-91E8-3CA79D96777B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08D04380-4D66-48FE-91E8-3CA79D96777B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08D04380-4D66-48FE-91E8-3CA79D96777B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415CEA07-22B6-4683-A57F-B2EDD77C02B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415CEA07-22B6-4683-A57F-B2EDD77C02B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415CEA07-22B6-4683-A57F-B2EDD77C02B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415CEA07-22B6-4683-A57F-B2EDD77C02B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74FA1D2-CB2A-44B5-95B0-33ABA84B265A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74FA1D2-CB2A-44B5-95B0-33ABA84B265A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74FA1D2-CB2A-44B5-95B0-33ABA84B265A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74FA1D2-CB2A-44B5-95B0-33ABA84B265A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
