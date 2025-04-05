@@ -1,6 +1,6 @@
 using System.Diagnostics;
-using EFCoreTryOutSolutions.Models;
 using Microsoft.AspNetCore.Mvc;
+using EFCore_ModelAccess.Models;
 
 namespace EFCoreTryOutSolutions.Controllers
 {

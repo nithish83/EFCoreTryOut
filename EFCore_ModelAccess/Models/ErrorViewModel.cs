@@ -1,4 +1,4 @@
-namespace EFCoreTryOutSolutions.Models
+namespace EFCore_ModelAccess.Models
 {
     public class ErrorViewModel
     {
